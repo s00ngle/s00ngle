@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=0:36d1dc,100:5b86e5&fontColor=FFFFFF&height=300&section=header&text=Soongle&fontSize=70&animation=fadeIn&desc=@s00ngle&descSize=30&descAlignY=60&fontAlignY=40)   
 
-
 <p align="center"> 
   <h2 align="center"> 🛠  Technology Stack 🛠  <h2/>
 </p>
