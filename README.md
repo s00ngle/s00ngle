@@ -4,7 +4,7 @@
   <h2 align="center"> 🛠  Technology Stack 🛠  <h2/>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/c++-green?style=flat&logo=C%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/c++-blue?style=flat&logo=C%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-blue?style=flat&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-yellowgreen?style=flat&logo=Kotlin&logoColor=white"/>
 </p>
