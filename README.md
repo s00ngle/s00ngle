@@ -4,9 +4,12 @@
   <h2 align="center"> 🛠  Technology Stack 🛠  <h2/>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/c++-blue?style=flat&logo=C%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-blue?style=flat&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-yellowgreen?style=flat&logo=Kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s00ngle)](https://github.com/anuraghazra/github-readme-stats)
