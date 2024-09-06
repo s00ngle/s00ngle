@@ -1,10 +1,11 @@
 <p> 
-  <h2>
-    I'm Soongle
-    <a href="https://www.instagram.com/s00ngle/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/s00ngle/"/></a>
-  <a href="https://www.youtube.com/@soongle/"><img src="https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool"></a>
-  <h2/>
+  우리 가게 정상 영업 합니다.
 </p>
+<p>
+  <a href="https://www.instagram.com/s00ngle/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/s00ngle/"/></a>
+  <a href="https://www.youtube.com/@soongle/"><img src="https://img.shields.io/badge/Youtube-ff0000?style=for-the-badge&logo=youtube&link=https://www.youtube.com/c/kyleschool"></a>
+</p>
+<!--
 <p>
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -21,8 +22,10 @@
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
   <br>
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
-<!--   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> -->
 </p>
-
+-->
+    
+<!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s00ngle)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s00ngle&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+-->
