@@ -5,11 +5,12 @@
 <img src="https://noonnucc-production.sfo2.cdn.digitaloceanspaces.com/202308/1692878523978236.jpeg" style="width:500px;">
 
 ### Activity
-- SSAFY 12th
-- GDSC HUFS
-  - 4기 Member
-  - 5기 Core Member
-- UMC 4th Web
-- 한국외대 SW 봉사단
-- 한국외대 고급문제해결기법 조교
-- 한민고등학교 코딩캠프 강사
+
+| **Activity**                          | **Details**                  | **Duration**   |
+|---------------------------------------|------------------------------|--------------|
+| SSAFY 12th                            | -                            | YYYY.MM ~ YYYY.MM |
+| GDSC HUFS                             | 4기 Member <br> 5기 Core Member | YYYY.MM ~ YYYY.MM |
+| UMC 4th Web                           | -                            | YYYY.MM ~ YYYY.MM |
+| 한국외대 SW 봉사단                      | -                            | YYYY.MM ~ YYYY.MM |
+| 한국외대 고급문제해결기법 조교          | -                            | YYYY.MM ~ YYYY.MM |
+| 한민고등학교 코딩캠프 강사              | -                            | YYYY.MM ~ YYYY.MM |
