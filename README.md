@@ -4,6 +4,7 @@
 
 <img src="https://noonnucc-production.sfo2.cdn.digitaloceanspaces.com/202308/1692878523978236.jpeg" style="width:700px;">
 
+<!--
 ### Activity
 
 | **Activity**                          | **Details**                     | **Duration**      |
@@ -27,3 +28,4 @@
 | 한민고등학교 정보과학 문제 해결 대회     | 코딩부문 최우수상                | 2016.06.17   |
 | RoboCup Korea Open                    | Best Research Award             | 2016.02.27   |
 | 한민고등학교 정보 활용대회              | 실용 SW 개발 부문 은상           | 2015.12.30    |
+-->
