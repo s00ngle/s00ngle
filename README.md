@@ -61,6 +61,7 @@
 
 </div>
 
+<!--
 ---
 
 ## 📊 GitHub Stats
@@ -68,3 +69,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=s00ngle&show_icons=true&theme=radical" alt="stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s00ngle&layout=compact&theme=radical" alt="langs" height="165"/>
 </p>
+-->
