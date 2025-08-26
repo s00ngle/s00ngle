@@ -1,4 +1,3 @@
-## 김용순 Soongle
 <a href="https://www.instagram.com/s00ngle/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/s00ngle/"/></a>
 <a href="https://www.youtube.com/@soongle/"><img src="https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool"></a>
 
@@ -12,7 +11,7 @@ https://soongle.vercel.app/
 
 | **Activity**                          | **Details**                     | **Duration**      |
 |---------------------------------------|---------------------------------|-------------------|
-| SSAFY                                 | 12기 Coding Track               | 2024.07 -         |
+| SSAFY                                 | 12기 Coding Track               | 2024.07 - 2025.06 |
 | GDSC HUFS                             | 4기 Member <br> 5기 Core Member | 2022.09 - 2024.08 |
 | HUFS Code Festival                    | 문제 출제 및 검수 총괄           | 2022, 2023        |
 | UMC                                   | 4기 Web 파트                    | 2023.03 - 2023.08 |
