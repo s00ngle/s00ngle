@@ -6,7 +6,7 @@
 
 https://soongle.vercel.app/
 
-<!--
+<!-- -->
 ### Activity
 
 | **Activity**                          | **Details**                     | **Duration**      |
@@ -30,4 +30,3 @@ https://soongle.vercel.app/
 | 한민고등학교 정보과학 문제 해결 대회     | 코딩부문 최우수상                | 2016.06.17   |
 | RoboCup Korea Open                    | Best Research Award             | 2016.02.27   |
 | 한민고등학교 정보 활용대회              | 실용 SW 개발 부문 은상           | 2015.12.30    |
--->
