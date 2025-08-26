@@ -23,7 +23,6 @@
 ### Tools & Platforms
 [![Tools](https://skillicons.dev/icons?i=figma,vscode,git)](https://skillicons.dev)
 
----
 
 ## 📌 Activities
 
@@ -38,8 +37,6 @@
 | 한국외대 고급문제해결기법 강의 | 채점 조교 및 강의 진행 | 2022.03 - 2022.06 |
 | 한민고등학교 코딩캠프 강사 | 자료구조, 알고리즘 강의 | 2018 - 2019 |
 
----
-
 ## 📜 Certificates
 
 | 자격/시험 | 등급/내용 | 날짜 |
@@ -47,7 +44,6 @@
 | 삼성 SW 역량 테스트 | Pro(B형) | 2024.09.21 |
 | OPIc | IM3 | 2024.06.02 |
 
----
 
 ## 🏆 Awards
 
