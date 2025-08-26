@@ -1,12 +1,8 @@
 <a href="https://www.instagram.com/s00ngle/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/s00ngle/"/></a>
 <a href="https://www.youtube.com/@soongle/"><img src="https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool"></a>
 
-<!--
-<img src="https://noonnucc-production.sfo2.cdn.digitaloceanspaces.com/202308/1692878523978236.jpeg" style="width:700px;">
--->
 https://soongle.vercel.app/
 
-<!-- -->
 ### Activity
 
 | **Activity**                          | **Details**                     | **Duration**      |
